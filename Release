@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm
 Codename: ios
 Components: main
-Date: Fri, 27 Aug 2021 20:37:15 +0000
+Date: Fri, 27 Aug 2021 20:37:21 +0000
 Description: my repo for things that I like
 Label: Ataro's alt repo
 Origin: Ataro's alt repo
@@ -12,22 +12,22 @@ MD5Sum:
  50b0451726501c5a62782fc7ddd587fd              814 Packages.bz2
  3b815924fbd8a98e4aff4c3c3cadd8fe              780 Packages.xz
  9a34ff9915d901e3feb8795825dfd53e              709 Packages.zst
- 382b352087ad34c217a773a4a2c1ead3              217 Release
+ bf55291f481f309c588a3b53f7b28183              217 Release
 SHA1:
  1e6e3c21734002f602278f69032815dc0ca87aa3             1547 Packages
  b0c8f2359b942f3e204a0dacb6351182c0d3268f              814 Packages.bz2
  2de79c36d6c7b5f35854532c3fd6576784567fa2              780 Packages.xz
  0fb3eb2607ad348b2f74905b98810be6688c976b              709 Packages.zst
- d06808075cd22805a206a5c6b7e3811b286202c9              217 Release
+ 495618bf2a94f1ffae05bc78eaad7e0da78e3377              217 Release
 SHA256:
  666d378a16088b32794b3d05a46f38b9e57c06627d7acc9415e6c6075c08787d             1547 Packages
  50526bfc082007dfda623193b288716edc7a17aab93ca97f3f564982d52a4dfa              814 Packages.bz2
  ff1c0c1e54a587ebeed5bdc506ecfde6de82494d364328fc32e58fb940578a70              780 Packages.xz
  c6a86e0afeaabdba40dfe51747e08e94baf917e2472644c2f7739f82d390e427              709 Packages.zst
- 0b777e8cecf4f955d6479dae05f1f02f2989bd8e5513b1ee61ceced9bd637217              217 Release
+ f85f319054c9a296404097a6d5fccac59f73ed9720264fdf649a26af292da959              217 Release
 SHA512:
  dc8e31ce36dffd5698731b04d9cdfdc0942549952e0efc3b492cf4f513f58e2d55a77f42470037c9fc4a3f90257583dcf5c2d37fd818a00ef37237154a22d8c5             1547 Packages
  d820465ffbd78b83ba5b2f8d0fc43ca3c369cc0a9886d4c1643f6f1f366e9b0cd1429760c000744c8c9c02ae0527e030e50f0830b787b7d30c5e9d950bb37b17              814 Packages.bz2
  7db14873df4d032df14c77fcf7666a27c94537fc1cedd11ce7d99d84a84778575a3a6902de52bc566202bced4e0ff6d3a47cae591831576527156a65efd90282              780 Packages.xz
  51a64a7a1e9d434fbabd27d59dc0ec8c0ec682c619b1763b076765600cffc0cba745e318088124fc0d3733dcc33ce0ae6e39ca118d5aa0085885d622d6ef4088              709 Packages.zst
- e43ed37f976b253d5b2329cc48c3636e95ec702ad93421bb486ec90cf28cba6d5d57d9cca9cad67b9a5e959ca3b9bcd3d4cfb419ddf4106c0a501bdae4695269              217 Release
+ 77854226108f9114b9528f988e2c5e7fdcccb70d57bc2475b77c86de336a3e3f07e39495063af36af45859a246bad6d5e6cb9204fd8f1134d392e0e9ff9aa94d              217 Release
