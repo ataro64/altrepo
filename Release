@@ -1,33 +1,33 @@
 Architectures: iphoneos-arm
 Codename: ios
 Components: main
-Date: Fri, 27 Aug 2021 20:41:04 +0000
+Date: Fri, 27 Aug 2021 21:46:32 +0000
 Description: my repo for things that I like
 Label: Ataro's alt repo
 Origin: Ataro's alt repo
 Suite: stable
 Version: 2.0
 MD5Sum:
- 4a9a19f7e131f5c476a8f65b6715fb06             1547 Packages
- 50b0451726501c5a62782fc7ddd587fd              814 Packages.bz2
- 3b815924fbd8a98e4aff4c3c3cadd8fe              780 Packages.xz
- 9a34ff9915d901e3feb8795825dfd53e              709 Packages.zst
- ea61c8c8d32a0f296de0c997060b230f              217 Release
+ 8c1e8b2c489ea4aceac64bd22e806da1             3995 Packages
+ 01ae39565f79b97806ebf886d4337eb6             1976 Packages.bz2
+ 7c679ab4daf6681f0006136caafb1a0d             1852 Packages.xz
+ 7715914af908cf2fbd272e2eb6cab2f9             1827 Packages.zst
+ fdecdb744c2e65a6467ceed0fbdd27e9              217 Release
 SHA1:
- 1e6e3c21734002f602278f69032815dc0ca87aa3             1547 Packages
- b0c8f2359b942f3e204a0dacb6351182c0d3268f              814 Packages.bz2
- 2de79c36d6c7b5f35854532c3fd6576784567fa2              780 Packages.xz
- 0fb3eb2607ad348b2f74905b98810be6688c976b              709 Packages.zst
- 3522efa131c1976d6892fceec53f4e721f2ad359              217 Release
+ 2b0d67835f13bf70799bb07e11a349567b01ca88             3995 Packages
+ 9586ce1ad9ab7b510044640bdb0ce0f1ebfc7649             1976 Packages.bz2
+ da456eadf8c71c6ff005b724fa1c2d4ec33fafa1             1852 Packages.xz
+ 2a7583377ed4962dde79e6bd3e8a02f7b7c710d2             1827 Packages.zst
+ bec123ec5ba73be6367ee6b466f302091a2c608f              217 Release
 SHA256:
- 666d378a16088b32794b3d05a46f38b9e57c06627d7acc9415e6c6075c08787d             1547 Packages
- 50526bfc082007dfda623193b288716edc7a17aab93ca97f3f564982d52a4dfa              814 Packages.bz2
- ff1c0c1e54a587ebeed5bdc506ecfde6de82494d364328fc32e58fb940578a70              780 Packages.xz
- c6a86e0afeaabdba40dfe51747e08e94baf917e2472644c2f7739f82d390e427              709 Packages.zst
- 858903b23fb47622aafda2bd50bbb42ce237724346e12745d71a5d4a72a8f362              217 Release
+ 405e238e12387c3c0196e6531b06f7910f9db0f6ecfc91b781be3905c7cedec3             3995 Packages
+ eb78b798f1715d50cf04a5a5d5c248ba27d9998ae4e15df295ffeb1655b31390             1976 Packages.bz2
+ 0ebbf426e38e0568c1b0f96bec08dd195e09754d5f4ea339c5dcf63acc5a8b8b             1852 Packages.xz
+ d9ce2650c059aff29a75da7b9ba8a9dd51f9b8efe776e9d6e2f564731e6ac7a0             1827 Packages.zst
+ e5c08fadd0b57ad8bf2b4be6d4ab5d94b62d281181057509db8b445f95b8c7f5              217 Release
 SHA512:
- dc8e31ce36dffd5698731b04d9cdfdc0942549952e0efc3b492cf4f513f58e2d55a77f42470037c9fc4a3f90257583dcf5c2d37fd818a00ef37237154a22d8c5             1547 Packages
- d820465ffbd78b83ba5b2f8d0fc43ca3c369cc0a9886d4c1643f6f1f366e9b0cd1429760c000744c8c9c02ae0527e030e50f0830b787b7d30c5e9d950bb37b17              814 Packages.bz2
- 7db14873df4d032df14c77fcf7666a27c94537fc1cedd11ce7d99d84a84778575a3a6902de52bc566202bced4e0ff6d3a47cae591831576527156a65efd90282              780 Packages.xz
- 51a64a7a1e9d434fbabd27d59dc0ec8c0ec682c619b1763b076765600cffc0cba745e318088124fc0d3733dcc33ce0ae6e39ca118d5aa0085885d622d6ef4088              709 Packages.zst
- 894b29cbe3de9999cec9e3f1d8b7b96347d269a2224a7d180eaf223d98afc5fcd301eba608c6e6a533917dda76a0604c14d1961e986c5395c74ccb684153f35b              217 Release
+ 78e9ebca2096cdb2ee423fce1007069efe761f8b1c931b5fca0ee27f00697ed0fd42f0125a60dc8b9b1c776fadc2b3ee0aa1c29cdaead0a3178b9c0b7eb43b72             3995 Packages
+ e1e513cb6e43b29b1059ce773cc7b73bc76936bedffb5ce2be63890f22f7212222bd86f3eb27e6b7dbb35cd406d0d57caa1857a1613d2611ca010c59c8291f15             1976 Packages.bz2
+ a47b3bc36e76f87fb098028624c7aa9a91addaa6141c2d2532fbba55c14234288f007466204fd58e162cc2b9625ceccd3e2b72c71db5f00b406b284c7ab43fe8             1852 Packages.xz
+ e623256acfed2b571b00e8c289f06c68fb2163b6cab8513819ed779d10c959b9173fc27ff20642856994cfee0d315ae7d76fdaf5c831cb3eefdd98b5bd3c49e7             1827 Packages.zst
+ 7c27f9eee43f082bc9df660e6e2ca31d071fa16d1d67d066f70527bea49c7d1efdba936b8131ed179ac879b400ef55c1f123ef9f9e5debe4fd11bf987826ef51              217 Release
