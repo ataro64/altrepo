@@ -1,7 +1,7 @@
 Architectures: iphoneos-arm
 Codename: ios
 Components: main
-Date: Sat, 28 Aug 2021 01:02:36 +0000
+Date: Sat, 28 Aug 2021 01:02:44 +0000
 Description: my repo for things that I like
 Label: Ataro's alt repo
 Origin: Ataro's alt repo
@@ -12,22 +12,22 @@ MD5Sum:
  01ae39565f79b97806ebf886d4337eb6             1976 Packages.bz2
  7c679ab4daf6681f0006136caafb1a0d             1852 Packages.xz
  7715914af908cf2fbd272e2eb6cab2f9             1827 Packages.zst
- bd134cd321aa668afe01925a3c7982a3              217 Release
+ 9974adcc613b99e1ffd52d7e47c6a9b4              217 Release
 SHA1:
  2b0d67835f13bf70799bb07e11a349567b01ca88             3995 Packages
  9586ce1ad9ab7b510044640bdb0ce0f1ebfc7649             1976 Packages.bz2
  da456eadf8c71c6ff005b724fa1c2d4ec33fafa1             1852 Packages.xz
  2a7583377ed4962dde79e6bd3e8a02f7b7c710d2             1827 Packages.zst
- aa15c2b87f845880223003ac27b17c2fb42897b8              217 Release
+ 3f57a70a54cbc3d08ee414bda35ac528f01b3d31              217 Release
 SHA256:
  405e238e12387c3c0196e6531b06f7910f9db0f6ecfc91b781be3905c7cedec3             3995 Packages
  eb78b798f1715d50cf04a5a5d5c248ba27d9998ae4e15df295ffeb1655b31390             1976 Packages.bz2
  0ebbf426e38e0568c1b0f96bec08dd195e09754d5f4ea339c5dcf63acc5a8b8b             1852 Packages.xz
  d9ce2650c059aff29a75da7b9ba8a9dd51f9b8efe776e9d6e2f564731e6ac7a0             1827 Packages.zst
- ea5ea93279f28d4d543a387cc293cada2e8df29456cf8a81e7672dcadb6602c8              217 Release
+ 20517b2a6220d2948980f2aa6074d38bf0513a45c2355978d7d9912cfaff7c70              217 Release
 SHA512:
  78e9ebca2096cdb2ee423fce1007069efe761f8b1c931b5fca0ee27f00697ed0fd42f0125a60dc8b9b1c776fadc2b3ee0aa1c29cdaead0a3178b9c0b7eb43b72             3995 Packages
  e1e513cb6e43b29b1059ce773cc7b73bc76936bedffb5ce2be63890f22f7212222bd86f3eb27e6b7dbb35cd406d0d57caa1857a1613d2611ca010c59c8291f15             1976 Packages.bz2
  a47b3bc36e76f87fb098028624c7aa9a91addaa6141c2d2532fbba55c14234288f007466204fd58e162cc2b9625ceccd3e2b72c71db5f00b406b284c7ab43fe8             1852 Packages.xz
  e623256acfed2b571b00e8c289f06c68fb2163b6cab8513819ed779d10c959b9173fc27ff20642856994cfee0d315ae7d76fdaf5c831cb3eefdd98b5bd3c49e7             1827 Packages.zst
- 69b45a69e85f7d98cbb9e85a066bf5afc66e58eef212d3d4ae4ce7490cb712920734450aa3c0e41fa35bd325c4f43328f0f048e11739cd9b241474eb04560e8c              217 Release
+ 4546e57055f09b55271856030e4280a946dff498e845823861e75ce75d25fb27d9bbfcd438665be6119b6d49cb89289b8469f311db620c167a40a819f2b6d69e              217 Release
