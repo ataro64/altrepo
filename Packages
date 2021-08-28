@@ -82,3 +82,27 @@ Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
 Name: AppSync Unified
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 
+Package: ws.hbang.newterm3
+Architecture: iphoneos-arm
+Version: 3.0-1+debug
+Section: Terminal Support
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 12484
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift, bash, coreutils, ncurses, system-cmds, gettext-localizations | com.linusyang.localeutf8
+Recommends: libpam-biometrics
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: ./pool/ws.hbang.newterm3_3.0-1debug_iphoneos-arm.deb
+Size: 3950846
+MD5sum: 9149895e34f30b3ea13458c0fc7d312a
+SHA1: fa250f84c7b8885a4e162028d554d7db2df34ef6
+SHA256: 7470f5ca85ff43ae6522655d4c1988e254fdd9b5feca590c4b9dfa7b595d0889
+SHA512: 05dc5f4d21f55f7b366379fa1679dbb5a2e2ebfae6d734c0379075df088f923c07e10e4f870723bd0d87f9e0613d526a465b9150e85e31f91be196f21dbad822
+Description: Access the command line on iOS
+Tag: compatible_min::ios10.0
+Name: NewTerm 3
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://chariz.com/cdn/icon/newterm-3/icon@3x.png
+Depiction: https://chariz.com/get/newterm-3
+Support: https://hashbang.productions/support/
+
